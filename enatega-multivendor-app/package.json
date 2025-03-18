@@ -56,8 +56,9 @@
     "expo-auth-session": "~5.4.0",
     "expo-constants": "~15.4.5",
     "expo-crypto": "~12.8.1",
-    "expo-dev-client": "^3.3.8",
-    "expo-device": "~7.0.2",
+
+    "expo-dev-client": "^5.0.14",
+    "expo-device": "~5.9.3",
     "expo-font": "~13.0.2",
     "expo-image-picker": "~14.7.1",
     "expo-linear-gradient": "^12.7.2",
@@ -110,7 +111,7 @@
     "uuid": "^9.0.1"
   },
   "devDependencies": {
-    "@expo/metro-config": "^0.17.3",
+    "@expo/metro-config": "^0.19.12",
     "babel-preset-expo": "^10.0.0",
     "babel-preset-react-native": "^4.0.1",
     "eslint": "^9.21.0",
