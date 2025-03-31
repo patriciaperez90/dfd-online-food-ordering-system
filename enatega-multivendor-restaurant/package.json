@@ -96,7 +96,7 @@
     "lint-staged": "^15.2.11",
     "prettier": "2.0.5",
 
-    "prettier-config-standard": "^1.0.1"
+    "prettier-config-standard": "^7.0.0"
   },
   "private": true
 }
